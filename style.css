@@ -1,0 +1,35 @@
+html{
+    background-color: green;
+    
+}
+h1{
+   text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration-line: underline;
+    
+}
+
+img{
+   width: 400px;
+}
+h2{
+    background-color: red;
+    text-align: center;
+}
+iframe{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+   
+
+h3{
+    text-decoration-line: underline;
+    background-color: blue;
+    
+}
+
+a{
+    font-size: 30px;
+}
